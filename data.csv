@@ -1,4 +1,4 @@
-Domain 1 - Psychological Well-Being,Domain 2- Health,Domain 3 - Time Balance,"Domain 4 - Lifelong Learning, Arts, & Culture",Domain 5 - Community,Domain 6 - Social Support,Domain 7 - Environment,Domain 8 - Government,Domain 9 - Work,Domain 10 - Personal Finances,"On a scale of 1-10, how happy are you?"
+Domain1,Domain2,Domain3,Domain4,Domain5,Domain6,Domain7,Domain8,Domain9,Domain10,SelfRepHapp
 4,4,3.333333333,3.25,3,3.75,3,2.4,4,3,7
 3.8,3.75,2.666666667,3.25,2.714285714,4.75,3.25,2.8,3.666666667,5,6
 3.6,3,2.666666667,4.75,3.714285714,4,4,3.4,2.666666667,4.25,6
